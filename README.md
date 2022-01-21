@@ -1,5 +1,5 @@
 # FlexWeb
 Implement the web site by flex 
 
-# Language
+## Tech Stack
 HTML, CSS, JavaScript
